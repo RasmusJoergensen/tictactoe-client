@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Client.cpp
+c:\users\daniel\source\repos\tictactoe-client\client\client\client.cpp(126): warning C4101: 'test': unreferenced local variable
+c:\users\daniel\source\repos\tictactoe-client\client\client\client.cpp(138): warning C4101: 'test': unreferenced local variable
+  Client.vcxproj -> C:\Users\Daniel\source\repos\tictactoe-client\Client\x64\Debug\Client.exe
+  Client.vcxproj -> C:\Users\Daniel\source\repos\tictactoe-client\Client\x64\Debug\Client.pdb (Partial PDB)
