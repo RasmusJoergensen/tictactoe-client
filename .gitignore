@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+# Visual c++ cache files
+
+*.opendb
+*.opensdf
+
+*.
 # Compiled Object files
 *.slo
 *.lo
