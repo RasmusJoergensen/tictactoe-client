@@ -1,0 +1,4 @@
+﻿  Client.cpp
+c:\users\ralle\source\repos\tictactoe-client\client\client\client.cpp(119): warning C4101: 'test': unreferenced local variable
+c:\users\ralle\source\repos\tictactoe-client\client\client\client.cpp(131): warning C4101: 'test': unreferenced local variable
+  Client.vcxproj -> C:\Users\ralle\Source\Repos\tictactoe-client\Client\Debug\Client.exe
