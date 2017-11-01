@@ -5,8 +5,9 @@
 
 *.opendb
 *.opensdf
+*.VC.db
+*.db
 
-*.
 # Compiled Object files
 *.slo
 *.lo
