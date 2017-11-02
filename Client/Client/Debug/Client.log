@@ -1,2 +1,3 @@
 ﻿  Client.cpp
+c:\users\ralle\documents\tictactoe-client\client\client\client.cpp(284): warning C4715: 'gameOver': not all control paths return a value
   Client.vcxproj -> C:\Users\ralle\Documents\tictactoe-client\Client\Debug\Client.exe
