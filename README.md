@@ -4,6 +4,7 @@
 This is a 1v1 multiplayer tic-tac-toe game with a 3x3 table
 -------------------------------------------------------------------------------------------
 
+-------------------------------------------------------------------------------------------
 HOW TO DOWNLOAD AND START THE GAME
 
 1. Downloaded the server here https://github.com/reidon/tictactoe-server
