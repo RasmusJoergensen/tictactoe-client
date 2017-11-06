@@ -1,7 +1,6 @@
 # tictactoe-client
 
 -------------------------------------------------------------------------------------------
-DESCRIPTION
 This is a 1v1 multiplayer tic-tac-toe game with a 3x3 table and you need 3 in a row to win.
 -------------------------------------------------------------------------------------------
 
